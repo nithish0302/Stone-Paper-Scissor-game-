@@ -40,7 +40,7 @@ Stone-Paper-Scissor-game-
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/nithish0302/Stone-Paper-Scissor-game-.git
+git clone https://github.com/nithish0302/Stone-Paper-Scissor-game.git
 ```
 
 2. Open the project folder.
