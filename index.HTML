@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rock Paper Scissor Game</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <h1>Welcome To Game</h1>
+
+    <div class="container">
+      <button class="rock" onclick="playerdec(comp(), 'rock')">
+        <img src="assets/rock.png" alt="Rock" />
+      </button>
+
+      <button class="rock" onclick="playerdec(comp(), 'paper')">
+        <img src="assets/paper.png" alt="Paper" />
+      </button>
+
+      <button class="rock" onclick="playerdec(comp(), 'scissor')">
+        <img src="assets/scissor.png" alt="Scissor" />
+      </button>
+    </div>
+
+    <p class="scorebo"></p>
+
+    <p class="alwaysscore"></p>
+
+    <button class="container1" onclick="resetScore()">Reset</button>
+
+    <script src="script.js"></script>
+  </body>
+</html>
