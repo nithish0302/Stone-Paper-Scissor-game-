@@ -59,3 +59,4 @@ git clone https://github.com/nithish0302/Stone-Paper-Scissor-game.git
 Nithish
 
 GitHub: https://github.com/nithish0302
+Demo: https://nithish0302.github.io/Stone-Paper-Scissor-game/
